@@ -57,7 +57,7 @@ This repo is optimized for:
 
 📘 **Learning Efficiency**  
 - Each problem is tied to a common pattern and includes annotated code  
-- Java-specific syntax tricks and best practices explained
+- Python-specific syntax tricks and best practices explained
 
 🧠 **Depth Over Breadth**  
 - Instead of covering 1000 problems, we focus on the ones that **build intuition**  
@@ -76,7 +76,7 @@ Each uploaded solution follows this format:
 1. 🔖 **Problem Tag**: e.g., Arrays, HashMap, Greedy, etc.
 2. 🧠 **Approach Summary**: What’s the strategy and why it works
 3. 🕒 **Time & Space Complexity**: Always stated for clarity
-4. ✅ **Java Code**: Clean, readable, and commented
+4. ✅ **Python Code**: Clean, readable, and commented
 5. 🧩 **Pattern Mapped**: So you can link it to similar questions
 
 ---
